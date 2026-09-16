@@ -1,9 +1,9 @@
 # problem-solving
 
-LeetCode · Programmers 문제 풀이 기록.
-각 문제 폴더에 풀이 코드와 접근 과정을 함께 남기고, 정리한 글은 [벨로그](https://velog.io/@NANOliberty)에 올립니다.
+LeetCode · Programmers 문제 풀이 기록
+각 문제 폴더에 풀이 코드와 접근 과정을 함께 남기고, 정리한 글은 [벨로그](https://velog.io/@NANOliberty)
 
-**주 언어는 Python**, 필요한 경우 Java 풀이를 같은 폴더에 함께 둡니다.
+**주 언어는 Python / Java**
 
 ---
 
@@ -43,8 +43,8 @@ python scripts/new_problem.py programmers 42586 "기능개발" -d lv2 -t "큐,�
 python scripts/update_readme.py
 ```
 
-`update_readme.py`는 문제 폴더의 `README.md` 프론트매터를 읽어 아래 표와 통계를 다시 만듭니다.
-벨로그 글을 쓰면 해당 문제 README의 `velog:` 항목에 링크만 채우고 스크립트를 다시 돌리면 됩니다.
+`update_readme.py`는 문제 폴더의 `README.md` 프론트매터를 읽어 아래 표와 통계를 다시 제작
+벨로그 글을 쓰면 해당 문제 README의 `velog:` 항목에 링크만 채우고 스크립트를 다시 돌림
 
 ---
 
