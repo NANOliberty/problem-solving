@@ -50,17 +50,18 @@ python scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 2문제** — LeetCode 2
+**총 3문제** — LeetCode 3
 
-**유형별** — 해시 1 · 투 포인터 1 · 그리디 1
+**유형별** — 해시 1 · 연결리스트 1 · 투 포인터 1 · 그리디 1
 
-**언어별** — Python 2 · Java 1
+**언어별** — Python 3 · Java 2
 
 ## LeetCode
 
 | # | 문제 | 난이도 | 유형 | 풀이 | 글 |
 |---|---|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 해시 | [Python](leetcode/0001-two-sum/solution.py) · [Java](leetcode/0001-two-sum/Solution.java) | - |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Med. | 연결리스트 | [Python](leetcode/0002-add-two-numbers/solution.py) · [Java](leetcode/0002-add-two-numbers/Solution.java) | - |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | 투 포인터, 그리디 | [Python](leetcode/0011-container-with-most-water/solution.py) | - |
 
 ## Programmers
