@@ -50,11 +50,11 @@ python scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 3문제** — LeetCode 3
+**총 4문제** — LeetCode 3 · Programmers 1
 
-**유형별** — 해시 1 · 연결리스트 1 · 투 포인터 1 · 그리디 1
+**유형별** — 해시 2 · 연결리스트 1 · 투 포인터 1 · 그리디 1
 
-**언어별** — Python 3 · Java 2
+**언어별** — Python 4 · Java 3
 
 ## LeetCode
 
@@ -66,6 +66,8 @@ python scripts/update_readme.py
 
 ## Programmers
 
-_아직 등록된 문제가 없습니다._
+| # | 문제 | 난이도 | 유형 | 풀이 | 글 |
+|---|---|---|---|---|---|
+| 1 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/1) | lv1 | 해시 | [Python](programmers/lv1/1-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98/solution.py) · [Java](programmers/lv1/1-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98/Solution.java) | - |
 
 <!-- PS:END -->
