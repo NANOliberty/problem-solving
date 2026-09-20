@@ -1,15 +1,15 @@
 ---
 platform: programmers
-id: 2
-title: 가장 큰 수
-url: https://school.programmers.co.kr/learn/courses/30/lessons/2
+id: 4
+title: H-Index
+url: https://school.programmers.co.kr/learn/courses/30/lessons/4
 difficulty: lv2
 tags: [정렬]
 velog:
-solved: 2026-09-20
+solved: 2026-09-21
 ---
 
-# 가장 큰 수
+# H-Index
 
 ## 문제 요약
 

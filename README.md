@@ -50,11 +50,11 @@ python scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 5문제** — LeetCode 2 · Programmers 3
+**총 6문제** — LeetCode 2 · Programmers 4
 
-**유형별** — 해시 2 · 정렬 2 · 연결리스트 1
+**유형별** — 정렬 3 · 해시 2 · 연결리스트 1
 
-**언어별** — Python 5 · Java 5
+**언어별** — Python 6 · Java 6
 
 ## LeetCode
 
@@ -69,6 +69,7 @@ python scripts/update_readme.py
 |---|---|---|---|---|---|
 | 1 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/1) | lv1 | 해시 | [Python](programmers/lv1/1-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98/solution.py) · [Java](programmers/lv1/1-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98/Solution.java) | - |
 | 2 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/2) | lv1 | 정렬 | [Python](programmers/lv1/2-K%EB%B2%88%EC%A7%B8%EC%88%98/solution.py) · [Java](programmers/lv1/2-K%EB%B2%88%EC%A7%B8%EC%88%98/Solution.java) | - |
-| 3 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/2) | lv2 | 정렬 | [Python](programmers/lv2/2-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98/solution.py) · [Java](programmers/lv2/2-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98/Solution.java) | - |
+| 3 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/2) | lv2 | 정렬 | [Python](programmers/lv2/3-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98/solution.py) · [Java](programmers/lv2/3-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98/Solution.java) | - |
+| 4 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/4) | lv2 | 정렬 | [Python](programmers/lv2/4-h-index/solution.py) · [Java](programmers/lv2/4-h-index/Solution.java) | - |
 
 <!-- PS:END -->
