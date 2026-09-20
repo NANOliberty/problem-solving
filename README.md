@@ -69,6 +69,6 @@ python scripts/update_readme.py
 |---|---|---|---|---|---|
 | 1 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/1) | lv1 | 해시 | [Python](programmers/lv1/1-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98/solution.py) · [Java](programmers/lv1/1-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98/Solution.java) | - |
 | 2 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/2) | lv1 | 정렬 | [Python](programmers/lv1/2-K%EB%B2%88%EC%A7%B8%EC%88%98/solution.py) · [Java](programmers/lv1/2-K%EB%B2%88%EC%A7%B8%EC%88%98/Solution.java) | - |
-| 2 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/2) | lv2 | 정렬 | [Python](programmers/lv2/2-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98/solution.py) · [Java](programmers/lv2/2-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98/Solution.java) | - |
+| 3 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/2) | lv2 | 정렬 | [Python](programmers/lv2/2-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98/solution.py) · [Java](programmers/lv2/2-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98/Solution.java) | - |
 
 <!-- PS:END -->
