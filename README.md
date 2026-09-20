@@ -50,11 +50,11 @@ python scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 6문제** — LeetCode 2 · Programmers 4
+**총 7문제** — LeetCode 2 · Programmers 5
 
-**유형별** — 정렬 3 · 해시 2 · 연결리스트 1
+**유형별** — 정렬 3 · 해시 2 · 연결리스트 1 · 연습문제 1
 
-**언어별** — Python 6 · Java 6
+**언어별** — Python 7 · Java 7
 
 ## LeetCode
 
@@ -71,5 +71,6 @@ python scripts/update_readme.py
 | 2 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/2) | lv1 | 정렬 | [Python](programmers/lv1/2-K%EB%B2%88%EC%A7%B8%EC%88%98/solution.py) · [Java](programmers/lv1/2-K%EB%B2%88%EC%A7%B8%EC%88%98/Solution.java) | - |
 | 3 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/2) | lv2 | 정렬 | [Python](programmers/lv2/3-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98/solution.py) · [Java](programmers/lv2/3-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98/Solution.java) | - |
 | 4 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/4) | lv2 | 정렬 | [Python](programmers/lv2/4-h-index/solution.py) · [Java](programmers/lv2/4-h-index/Solution.java) | - |
+| 5 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/5) | lv1 | 연습문제 | [Python](programmers/lv1/5-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/solution.py) · [Java](programmers/lv1/5-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/Solution.java) | - |
 
 <!-- PS:END -->
