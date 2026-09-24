@@ -50,11 +50,11 @@ python scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 8문제** — LeetCode 2 · Programmers 6
+**총 9문제** — LeetCode 3 · Programmers 6
 
-**유형별** — 정렬 3 · 해시 2 · 연결리스트 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1
+**유형별** — 정렬 4 · 해시 2 · 연결리스트 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1
 
-**언어별** — Python 8 · Java 8
+**언어별** — Python 9 · Java 9
 
 ## LeetCode
 
@@ -62,6 +62,7 @@ python scripts/update_readme.py
 |---|---|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 해시 | [Python](leetcode/0001-two-sum/solution.py) · [Java](leetcode/0001-two-sum/Solution.java) | - |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Med. | 연결리스트 | [Python](leetcode/0002-add-two-numbers/solution.py) · [Java](leetcode/0002-add-two-numbers/Solution.java) | - |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | 정렬 | [Python](leetcode/0088-merge-sorted-array/solution.py) · [Java](leetcode/0088-merge-sorted-array/Solution.java) | - |
 
 ## Programmers
 
