@@ -1,11 +1,15 @@
 # problem-solving
 
-LeetCode · Programmers 문제 풀이 기록
-각 문제 폴더에 풀이 코드와 접근 과정을 함께 남기고, 정리한 글은 [벨로그](https://velog.io/@NANOliberty)
+LeetCode / Programmers 문제 풀이 기록
+<p> SQL 정리한 글은 [벨로그](https://velog.io/@NANOliberty)
 
 **주 언어는 Python / Java**
 
+<br>
+
 ---
+
+<br>
 
 ## 구조
 
@@ -15,7 +19,7 @@ problem-solving/
 │   └── 0011-container-with-most-water/
 │       ├── README.md        # 프론트매터(메타) + 접근 과정
 │       ├── solution.py
-│       └── Solution.java    # 서브 언어 풀이가 있으면 같은 폴더에
+│       └── Solution.java    # 서브 언어 풀이
 ├── programmers/
 │   └── lv2/
 │       └── 42586-기능개발/
@@ -26,25 +30,28 @@ problem-solving/
     └── update_readme.py     # 아래 표 자동 갱신
 ```
 
-LeetCode는 번호를 4자리로 채워(`0011-`) 정렬을 맞추고, Programmers는 레벨 폴더로 한 번 나눕니다.
+LeetCode는 번호를 4자리로 채워(`0011-`) 정렬을 맞추고, Programmers는 레벨 폴더로 한 번 분할
+
+
+<br>
 
 ## 사용법
 
 새 문제 추가:
 
 ```bash
-python scripts/new_problem.py leetcode 11 "Container With Most Water" -d Medium -t "투 포인터,그리디"
-python scripts/new_problem.py programmers 42586 "기능개발" -d lv2 -t "큐,시뮬레이션" -l py,java
+python3 scripts/new_problem.py leetcode 1 "Two Sum" -d Easy -t "해시"
+python3 scripts/new_problem.py programmers 1 "기능개발" -d lv2 -t "큐,시뮬레이션" -l py,java
 ```
 
 풀이를 작성한 뒤 표 갱신:
 
 ```bash
-python scripts/update_readme.py
+python3 scripts/update_readme.py
 ```
 
 `update_readme.py`는 문제 폴더의 `README.md` 프론트매터를 읽어 아래 표와 통계를 다시 제작
-벨로그 글을 쓰면 해당 문제 README의 `velog:` 항목에 링크만 채우고 스크립트를 다시 돌림
+벨로그 글을 쓰면 해당 문제 README의 `velog:` 항목에 링크만 채우고 스크립트를 다시
 
 ---
 
