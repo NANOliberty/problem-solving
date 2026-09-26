@@ -9,8 +9,6 @@ LeetCode / Programmers 문제 풀이 기록
 
 ---
 
-<br>
-
 ## 구조
 
 ```
@@ -52,6 +50,8 @@ python3 scripts/update_readme.py
 
 `update_readme.py`는 문제 폴더의 `README.md` 프론트매터를 읽어 아래 표와 통계를 다시 제작
 벨로그 글을 쓰면 해당 문제 README의 `velog:` 항목에 링크만 채우고 스크립트를 다시
+
+<br>
 
 ---
 
