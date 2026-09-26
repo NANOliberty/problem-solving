@@ -57,11 +57,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 10문제** — LeetCode 4 · Programmers 6
+**총 11문제** — LeetCode 5 · Programmers 6
 
-**유형별** — 정렬 5 · 해시 2 · 연결리스트 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1
+**유형별** — 정렬 6 · 해시 2 · 연결리스트 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1
 
-**언어별** — Python 10 · Java 10
+**언어별** — Python 11 · Java 11
 
 ## LeetCode
 
@@ -71,6 +71,7 @@ python3 scripts/update_readme.py
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Med. | 연결리스트 | [Python](leetcode/0002-add-two-numbers/solution.py) · [Java](leetcode/0002-add-two-numbers/Solution.java) | - |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Med. | 계수 정렬 | [Python](leetcode/0075-sort-colors/solution.py) · [Java](leetcode/0075-sort-colors/Solution.java) | - |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | 정렬 | [Python](leetcode/0088-merge-sorted-array/solution.py) · [Java](leetcode/0088-merge-sorted-array/Solution.java) | - |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Med. | 정렬 | [Python](leetcode/0179-largest-number/solution.py) · [Java](leetcode/0179-largest-number/Solution.java) | - |
 
 ## Programmers
 
