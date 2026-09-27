@@ -1,7 +1,7 @@
 # problem-solving
 
 LeetCode / Programmers 문제 풀이 기록
-<p> SQL 정리한 글은 [벨로그](https://velog.io/@NANOliberty)
+<p> SQL 정리한 글은 [벨로그](https://velog.io/@nano_o/series/SQL-고득점-Kit)
 
 **주 언어는 Java / Python**
 
