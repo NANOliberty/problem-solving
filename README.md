@@ -57,11 +57,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 11문제** — LeetCode 5 · Programmers 6
+**총 12문제** — LeetCode 6 · Programmers 6
 
-**유형별** — 정렬 6 · 해시 2 · 연결리스트 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1
+**유형별** — 정렬 7 · 해시 2 · 연결리스트 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1
 
-**언어별** — Python 11 · Java 11
+**언어별** — Python 12 · Java 12
 
 ## LeetCode
 
@@ -69,9 +69,10 @@ python3 scripts/update_readme.py
 |---|---|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 해시 | [Python](leetcode/0001-two-sum/solution.py) · [Java](leetcode/0001-two-sum/Solution.java) | - |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Med. | 연결리스트 | [Python](leetcode/0002-add-two-numbers/solution.py) · [Java](leetcode/0002-add-two-numbers/Solution.java) | - |
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Med. | 계수 정렬 | [Python](leetcode/0075-sort-colors/solution.py) · [Java](leetcode/0075-sort-colors/Solution.java) | - |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Med. | 정렬 | [Python](leetcode/0075-sort-colors/solution.py) · [Java](leetcode/0075-sort-colors/Solution.java) | - |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | 정렬 | [Python](leetcode/0088-merge-sorted-array/solution.py) · [Java](leetcode/0088-merge-sorted-array/Solution.java) | - |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Med. | 정렬 | [Python](leetcode/0179-largest-number/solution.py) · [Java](leetcode/0179-largest-number/Solution.java) | - |
+| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Med. | 정렬 | [Python](leetcode/0451-sort-characters-by-frequency/solution.py) · [Java](leetcode/0451-sort-characters-by-frequency/Solution.java) | - |
 
 ## Programmers
 
