@@ -57,11 +57,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 14문제** — LeetCode 7 · Programmers 7
+**총 15문제** — LeetCode 7 · Programmers 8
 
-**유형별** — 정렬 7 · 해시 2 · 연결리스트 1 · Two Pointers 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 스택/큐 1
+**유형별** — 정렬 7 · 해시 2 · 스택/큐 2 · 연결리스트 1 · Two Pointers 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1
 
-**언어별** — Python 14 · Java 14
+**언어별** — Python 15 · Java 15
 
 ## LeetCode
 
@@ -86,5 +86,6 @@ python3 scripts/update_readme.py
 | 5 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/5) | lv1 | 연습문제 | [Python](programmers/lv1/5-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/solution.py) · [Java](programmers/lv1/5-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/Solution.java) | - |
 | 6 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/6) | lv1 | 2019 KAKAO BLIND RECRUITMENT | [Python](programmers/lv1/6-%EC%8B%A4%ED%8C%A8%EC%9C%A8/solution.py) · [Java](programmers/lv1/6-%EC%8B%A4%ED%8C%A8%EC%9C%A8/Solution.java) | - |
 | 7 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/7) | lv2 | 스택/큐 | [Python](programmers/lv2/7-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/solution.py) · [Java](programmers/lv2/7-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/Solution.java) | - |
+| 8 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/8) | lv2 | 스택/큐 | [Python](programmers/lv2/8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/solution.py) · [Java](programmers/lv2/8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/Solution.java) | - |
 
 <!-- PS:END -->
