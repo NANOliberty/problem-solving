@@ -3,7 +3,7 @@ platform: programmers
 id: 11
 title: 베스트앨범
 url: https://school.programmers.co.kr/learn/courses/30/lessons/11
-difficulty: lv2
+difficulty: lv3
 tags: [해시]
 velog:
 solved: 2026-10-03
