@@ -90,6 +90,6 @@ python3 scripts/update_readme.py
 | 8 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/8) | lv2 | 스택/큐 | [Python](programmers/lv2/8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/solution.py) · [Java](programmers/lv2/8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/Solution.java) | - |
 | 9 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/9) | lv2 | 스택/큐 | [Python](programmers/lv2/9-%EB%8B%A4%EB%A6%AC%EB%A5%BC-%EC%A7%80%EB%82%98%EB%8A%94-%ED%8A%B8%EB%9F%AD/solution.py) · [Java](programmers/lv2/9-%EB%8B%A4%EB%A6%AC%EB%A5%BC-%EC%A7%80%EB%82%98%EB%8A%94-%ED%8A%B8%EB%9F%AD/Solution.java) | - |
 | 10 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/10) | lv2 | 스택/큐 | [Python](programmers/lv2/10-%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9/solution.py) · [Java](programmers/lv2/10-%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9/Solution.java) | - |
-| 11 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/11) | lv2 | 해시 | [Python](programmers/lv2/11-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/solution.py) · [Java](programmers/lv2/11-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/Solution.java) | - |
+| 11 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/11) | lv3 | 해시 | [Python](programmers/lv2/11-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/solution.py) · [Java](programmers/lv2/11-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/Solution.java) | - |
 
 <!-- PS:END -->
