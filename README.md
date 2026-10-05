@@ -60,11 +60,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 21문제** — LeetCode 8 · Programmers 13
+**총 22문제** — LeetCode 9 · Programmers 13
 
-**유형별** — 정렬 7 · 스택/큐 5 · 해시 3 · 연결리스트 1 · Stack 1 · Two Pointers 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1
+**유형별** — 정렬 7 · 스택/큐 5 · 해시 3 · Stack 2 · 연결리스트 1 · Two Pointers 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1
 
-**언어별** — Python 21 · Java 21
+**언어별** — Python 22 · Java 22
 
 ## LeetCode
 
@@ -78,6 +78,7 @@ python3 scripts/update_readme.py
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [Python](leetcode/0125-valid-palindrome/solution.py) · [Java](leetcode/0125-valid-palindrome/Solution.java) | - |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Med. | 정렬 | [Python](leetcode/0179-largest-number/solution.py) · [Java](leetcode/0179-largest-number/Solution.java) | - |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Med. | 정렬 | [Python](leetcode/0451-sort-characters-by-frequency/solution.py) · [Java](leetcode/0451-sort-characters-by-frequency/Solution.java) | - |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Med. | Stack | [Python](leetcode/0739-daily-temperatures/solution.py) · [Java](leetcode/0739-daily-temperatures/Solution.java) | - |
 
 ## Programmers
 
