@@ -60,11 +60,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 24문제** — LeetCode 9 · Programmers 15
+**총 25문제** — LeetCode 10 · Programmers 15
 
-**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 2 · 연결리스트 1 · Two Pointers 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1
+**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 2 · 연결리스트 1 · Two Pointers 1 · Sorting 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1
 
-**언어별** — Python 24 · Java 24
+**언어별** — Java 25 · Python 24
 
 ## LeetCode
 
@@ -77,6 +77,7 @@ python3 scripts/update_readme.py
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | 정렬 | [Python](leetcode/0088-merge-sorted-array/solution.py) · [Java](leetcode/0088-merge-sorted-array/Solution.java) | - |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [Python](leetcode/0125-valid-palindrome/solution.py) · [Java](leetcode/0125-valid-palindrome/Solution.java) | - |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Med. | 정렬 | [Python](leetcode/0179-largest-number/solution.py) · [Java](leetcode/0179-largest-number/Solution.java) | - |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Med. | Sorting | [Java](leetcode/0215-kth-largest-element-in-an-array/Solution.java) | - |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Med. | 정렬 | [Python](leetcode/0451-sort-characters-by-frequency/solution.py) · [Java](leetcode/0451-sort-characters-by-frequency/Solution.java) | - |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Med. | Stack | [Python](leetcode/0739-daily-temperatures/solution.py) · [Java](leetcode/0739-daily-temperatures/Solution.java) | - |
 
