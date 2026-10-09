@@ -60,11 +60,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 26문제** — LeetCode 11 · Programmers 15
+**총 27문제** — LeetCode 11 · Programmers 16
 
-**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 2 · Sorting 2 · 연결리스트 1 · Two Pointers 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1
+**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 2 · Sorting 2 · 연결리스트 1 · Two Pointers 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1 · 완전탐색 1
 
-**언어별** — Java 26 · Python 24
+**언어별** — Java 27 · Python 25
 
 ## LeetCode
 
@@ -101,5 +101,6 @@ python3 scripts/update_readme.py
 | 13 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/13) | lv2 | 힙 | [Python](programmers/lv2/13-%EB%8D%94-%EB%A7%B5%EA%B2%8C/solution.py) · [Java](programmers/lv2/13-%EB%8D%94-%EB%A7%B5%EA%B2%8C/Solution.java) | - |
 | 14 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/14) | lv2 | 해시 | [Python](programmers/lv2/14-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D/solution.py) · [Java](programmers/lv2/14-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D/Solution.java) | - |
 | 15 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/15) | lv2 | 해시 | [Python](programmers/lv2/15-%EC%9D%98%EC%83%81/solution.py) · [Java](programmers/lv2/15-%EC%9D%98%EC%83%81/Solution.java) | - |
+| 16 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/16) | lv2 | 완전탐색 | [Python](programmers/lv2/16-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/solution.py) · [Java](programmers/lv2/16-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/Solution.java) | - |
 
 <!-- PS:END -->
