@@ -60,11 +60,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 28문제** — LeetCode 12 · Programmers 16
+**총 29문제** — LeetCode 13 · Programmers 16
 
-**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Sorting 3 · Stack 2 · 연결리스트 1 · Two Pointers 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1 · 완전탐색 1
+**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 3 · Sorting 3 · 연결리스트 1 · Two Pointers 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1 · 완전탐색 1
 
-**언어별** — Java 28 · Python 25
+**언어별** — Java 29 · Python 25
 
 ## LeetCode
 
@@ -77,6 +77,7 @@ python3 scripts/update_readme.py
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Med. | 정렬 | [Python](leetcode/0075-sort-colors/solution.py) · [Java](leetcode/0075-sort-colors/Solution.java) | - |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | 정렬 | [Python](leetcode/0088-merge-sorted-array/solution.py) · [Java](leetcode/0088-merge-sorted-array/Solution.java) | - |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [Python](leetcode/0125-valid-palindrome/solution.py) · [Java](leetcode/0125-valid-palindrome/Solution.java) | - |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Med. | Stack | [Java](leetcode/0155-min-stack/Solution.java) | - |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Med. | 정렬 | [Python](leetcode/0179-largest-number/solution.py) · [Java](leetcode/0179-largest-number/Solution.java) | - |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Med. | Sorting | [Java](leetcode/0215-kth-largest-element-in-an-array/Solution.java) | - |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Med. | Sorting | [Java](leetcode/0347-top-k-frequent-elements/Solution.java) | - |
