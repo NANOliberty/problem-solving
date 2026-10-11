@@ -60,11 +60,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 29문제** — LeetCode 13 · Programmers 16
+**총 30문제** — LeetCode 14 · Programmers 16
 
-**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 3 · Sorting 3 · 연결리스트 1 · Two Pointers 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1 · 완전탐색 1
+**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 4 · Sorting 3 · 연결리스트 1 · Two Pointers 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1 · 완전탐색 1
 
-**언어별** — Java 29 · Python 25
+**언어별** — Java 30 · Python 25
 
 ## LeetCode
 
@@ -80,6 +80,7 @@ python3 scripts/update_readme.py
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Med. | Stack | [Java](leetcode/0155-min-stack/Solution.java) | - |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Med. | 정렬 | [Python](leetcode/0179-largest-number/solution.py) · [Java](leetcode/0179-largest-number/Solution.java) | - |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Med. | Sorting | [Java](leetcode/0215-kth-largest-element-in-an-array/Solution.java) | - |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack | [Java](leetcode/0232-implement-queue-using-stacks/Solution.java) | - |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Med. | Sorting | [Java](leetcode/0347-top-k-frequent-elements/Solution.java) | - |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Med. | 정렬 | [Python](leetcode/0451-sort-characters-by-frequency/solution.py) · [Java](leetcode/0451-sort-characters-by-frequency/Solution.java) | - |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Med. | Stack | [Python](leetcode/0739-daily-temperatures/solution.py) · [Java](leetcode/0739-daily-temperatures/Solution.java) | - |
