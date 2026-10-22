@@ -60,11 +60,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 33문제** — LeetCode 15 · Programmers 18
+**총 34문제** — LeetCode 15 · Programmers 19
 
 **유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 4 · Sorting 3 · 완전탐색 3 · 연결리스트 1 · Two Pointers 1 · HashSet 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1
 
-**언어별** — Java 33 · Python 25
+**언어별** — Java 34 · Python 25
 
 ## LeetCode
 
@@ -108,5 +108,6 @@ python3 scripts/update_readme.py
 | 16 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/16) | lv2 | 완전탐색 | [Python](programmers/lv2/16-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/solution.py) · [Java](programmers/lv2/16-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/Solution.java) | - |
 | 17 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/17) | lv2 | 완전탐색 | [Java](programmers/lv2/17-%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B0/Solution.java) | - |
 | 18 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/18) | lv2 | 완전탐색 | [Java](programmers/lv2/18-%EC%B9%B4%ED%8E%AB/Solution.java) | - |
+| 19 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/19) | lv2 | 그리디 | [Java](programmers/lv2/19-%EC%B2%B4%EC%9C%A1%EB%B3%B5/Solution.java) | - |
 
 <!-- PS:END -->
