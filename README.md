@@ -60,11 +60,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 35문제** — LeetCode 15 · Programmers 20
+**총 36문제** — LeetCode 16 · Programmers 20
 
-**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 4 · 완전탐색 4 · Sorting 3 · 연결리스트 1 · Two Pointers 1 · HashSet 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1 · 힙 1
+**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 4 · 완전탐색 4 · Sorting 3 · 연결리스트 1 · Backtracking 1 · Two Pointers 1 · HashSet 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1
 
-**언어별** — Java 35 · Python 25
+**언어별** — Java 36 · Python 25
 
 ## LeetCode
 
@@ -75,6 +75,7 @@ python3 scripts/update_readme.py
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack | [Python](leetcode/0020-valid-parentheses/solution.py) · [Java](leetcode/0020-valid-parentheses/Solution.java) | - |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Med. | Sorting | [Java](leetcode/0049-group-anagrams/Solution.java) | - |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Med. | 정렬 | [Python](leetcode/0075-sort-colors/solution.py) · [Java](leetcode/0075-sort-colors/Solution.java) | - |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | Med. | Backtracking | [Java](leetcode/0078-subsets/Solution.java) | - |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | 정렬 | [Python](leetcode/0088-merge-sorted-array/solution.py) · [Java](leetcode/0088-merge-sorted-array/Solution.java) | - |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [Python](leetcode/0125-valid-palindrome/solution.py) · [Java](leetcode/0125-valid-palindrome/Solution.java) | - |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Med. | HashSet | [Java](leetcode/0128-longest-consecutive-sequence/Solution.java) | - |
