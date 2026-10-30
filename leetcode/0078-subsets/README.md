@@ -26,4 +26,25 @@ solved: 2026-10-29
 
 ## 배운 점 / 막힌 지점
 
--
+- 순열 및 조합 코드, 앞으로는 visited 말고 List 2개로 해결을 해야겠다.
+void perm(List<Integer> temp, List<Integer> rest) {
+    if (!temp.isEmpty()) subset.add(temp);
+    for (int i = 0; i < rest.size(); i++) {
+        List<Integer> nextCur = new ArrayList<>(temp);
+        nextCur.add(rest.get(i));
+        List<Integer> nextRest = new ArrayList<>(rest);
+        nextRest.remove(i);
+        perm(nextCur, nextRest);
+    }
+}
+
+void comb(List<Integer> cur, List<Integer> rest) {
+    if (!cur.isEmpty()) subset.add(cur);
+
+    for (int i = 0; i < rest.size(); i++) {
+        List<Integer> nextCur = new ArrayList<>(cur);
+        nextCur.add(rest.get(i));
+        List<Integer> nextRest = new ArrayList<>(rest.subList(i + 1, rest.size()));
+        comb(nextCur, nextRest);
+    }
+}
