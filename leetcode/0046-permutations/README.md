@@ -26,4 +26,4 @@ solved: 2026-10-31
 
 ## 배운 점 / 막힌 지점
 
--
+- cur.add(arr[i]);, cur.remove(cur.size()-1); 기억하자!
