@@ -60,11 +60,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 39문제** — LeetCode 19 · Programmers 20
+**총 40문제** — LeetCode 20 · Programmers 20
 
-**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 4 · Backtracking 4 · 완전탐색 4 · Sorting 3 · 연결리스트 1 · Two Pointers 1 · HashSet 1 · 연습문제 1 · 2019 KAKAO BLIND RECRUITMENT 1
+**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 4 · Backtracking 4 · 완전탐색 4 · Sorting 3 · 연결리스트 1 · Two Pointers 1 · HashSet 1 · Design 1 · 연습문제 1
 
-**언어별** — Java 39 · Python 25
+**언어별** — Java 40 · Python 25
 
 ## LeetCode
 
@@ -88,6 +88,7 @@ python3 scripts/update_readme.py
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack | [Java](leetcode/0232-implement-queue-using-stacks/Solution.java) | - |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Med. | Sorting | [Java](leetcode/0347-top-k-frequent-elements/Solution.java) | - |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Med. | 정렬 | [Python](leetcode/0451-sort-characters-by-frequency/solution.py) · [Java](leetcode/0451-sort-characters-by-frequency/Solution.java) | - |
+| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Med. | Design | [Java](leetcode/0707-design-linked-list/Solution.java) | - |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Med. | Stack | [Python](leetcode/0739-daily-temperatures/solution.py) · [Java](leetcode/0739-daily-temperatures/Solution.java) | - |
 
 ## Programmers
