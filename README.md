@@ -60,11 +60,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 40문제** — LeetCode 20 · Programmers 20
+**총 41문제** — LeetCode 20 · Programmers 21
 
-**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 4 · Backtracking 4 · 완전탐색 4 · Sorting 3 · 연결리스트 1 · Two Pointers 1 · HashSet 1 · Design 1 · 연습문제 1
+**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 4 · Backtracking 4 · 완전탐색 4 · Sorting 3 · 연결리스트 1 · Two Pointers 1 · HashSet 1 · Design 1 · 문자열 파싱 1
 
-**언어별** — Java 40 · Python 25
+**언어별** — Java 41 · Python 25
 
 ## LeetCode
 
@@ -115,5 +115,6 @@ python3 scripts/update_readme.py
 | 18 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/18) | lv2 | 완전탐색 | [Java](programmers/lv2/18-%EC%B9%B4%ED%8E%AB/Solution.java) | - |
 | 19 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/19) | lv1 | 그리디 | [Java](programmers/lv2/19-%EC%B2%B4%EC%9C%A1%EB%B3%B5/Solution.java) | - |
 | 20 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/20) | lv2 | 완전탐색 | [Java](programmers/lv2/20-%ED%94%BC%EB%A1%9C%EB%8F%84/Solution.java) | - |
+| 21 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/21) | lv1 | 문자열 파싱 | [Java](programmers/lv1/21-%EC%8B%A0%EA%B7%9C-%EC%95%84%EC%9D%B4%EB%94%94-%EC%B6%94%EC%B2%9C/Solution.java) | - |
 
 <!-- PS:END -->
