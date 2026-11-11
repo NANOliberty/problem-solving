@@ -60,11 +60,11 @@ python3 scripts/update_readme.py
 
 <!-- PS:START -->
 
-**총 43문제** — LeetCode 20 · Programmers 23
+**총 44문제** — LeetCode 20 · Programmers 24
 
-**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · Stack 4 · Backtracking 4 · 완전탐색 4 · Sorting 3 · 연결리스트 1 · Two Pointers 1 · HashSet 1 · Design 1 · 문자열 파싱 1
+**유형별** — 정렬 7 · 해시 5 · 스택/큐 5 · 완전탐색 5 · Stack 4 · Backtracking 4 · Sorting 3 · 연결리스트 1 · Two Pointers 1 · HashSet 1 · Design 1 · 문자열 파싱 1
 
-**언어별** — Java 43 · Python 25
+**언어별** — Java 44 · Python 25
 
 ## LeetCode
 
@@ -118,5 +118,6 @@ python3 scripts/update_readme.py
 | 21 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/21) | lv1 | 문자열 파싱 | [Java](programmers/lv1/21-%EC%8B%A0%EA%B7%9C-%EC%95%84%EC%9D%B4%EB%94%94-%EC%B6%94%EC%B2%9C/Solution.java) | - |
 | 22 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/22) | lv2 | dfs | [Java](programmers/lv2/22-%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84/Solution.java) | - |
 | 23 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/23) | lv1 | 문자열 | [Java](programmers/lv1/23-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%91-%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84/Solution.java) | - |
+| 24 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/24) | lv2 | 완전탐색 | [Java](programmers/lv2/24-%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84-%EB%91%98%EB%A1%9C-%EB%82%98%EB%88%84%EA%B8%B0/Solution.java) | - |
 
 <!-- PS:END -->
